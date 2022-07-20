@@ -1,1 +1,1 @@
-# spygetit-light
+# spygetit-client
